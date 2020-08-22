@@ -1,5 +1,5 @@
-Queries -> queries.sql
-Screenshots -> ss.pdf
+Queries -> queries.sql,
+Screenshots -> ss.pdf,
 Screenshots are as follows:
 1. c0 database creation
 2. c1_2 Table 1&2 creation

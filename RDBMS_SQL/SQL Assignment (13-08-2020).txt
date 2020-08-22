@@ -1,0 +1,19 @@
+SQL Concepts & Fundamentals (13/08/2020)
+
+Note :
+
+> Assuming you are ready with an ER diagram for the Hospital Management System.
+> You can use any relational database (MySQL/Oracle/MS SQL Server) whichever you prefer.
+> Submission Dt: 17/08/2020
+
+Tasks :
+
+1. Create a database for the Hospital Management System based on your ER. Create appropriate tables & relationships.
+
+2. Design a query to provide a list of doctors, which department they belong to and patients treated by them (if any).
+
+3. Query to provide the count of patients discharged per day in the last week. 
+
+
+Share you DDL & DML queries you used for Task 1.
+For Tasks 2 & 3, along with queries share your results as well. 
